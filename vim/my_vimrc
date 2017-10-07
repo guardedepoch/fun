@@ -1,0 +1,9 @@
+syntax on
+set et
+set ts=4
+set sw=4
+
+"set background=dark
+"colorscheme solarized
+
+"set viminfo='100,h
